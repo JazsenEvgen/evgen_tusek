@@ -18,3 +18,9 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
+3. $ git status evgen_tusek/vaja/tmp.txt
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
